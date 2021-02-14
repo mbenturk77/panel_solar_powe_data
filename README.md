@@ -1,4 +1,4 @@
-# panel_solar_powe_data
+# panel_solar_power_data
 The goal is predict the power output for a particular array of solar power generators, knowing some environmental conditions.
 the following variables for this analysis:
   distance-to-solar-noon, in radians.
